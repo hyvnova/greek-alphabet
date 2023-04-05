@@ -1,8 +1,0 @@
-README.md
-setup.py
-greek_alphabet/__init__.py
-greek_alphabet/lib.py
-greek_alphabet.egg-info/PKG-INFO
-greek_alphabet.egg-info/SOURCES.txt
-greek_alphabet.egg-info/dependency_links.txt
-greek_alphabet.egg-info/top_level.txt
