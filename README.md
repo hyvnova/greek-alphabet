@@ -1,6 +1,12 @@
 # Greek Alphabet
 A Python module for working with the Greek alphabet.
 
+## Installation
+```python
+pip install greek_alphabet
+```
+Manual installation [here](https://pypi.org/project/greek-alphabet/)
+
 ## Usage
 ### Importing the module
 ```python
